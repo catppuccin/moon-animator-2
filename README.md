@@ -37,10 +37,11 @@
 ## Usage
 
 1. Click on *Options*
-2. Click on *Edit Theme...*
-3. Choose your *flavour*
-4. Copy the contents of *flavour.json* into the *Import* textbox
-5. Press *save*
+2. Click on *Other*
+3. Click on *Edit Theme...*
+4. Choose your *flavour*
+5. Copy the contents of *flavour.json* into the *Import* textbox
+6. Press *save*
 
 ## 💝 Thanks to
 
