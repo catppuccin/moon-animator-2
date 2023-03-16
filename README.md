@@ -46,6 +46,7 @@
 ## 💝 Thanks to
 
 - [xhayper](https://github.com/xhayper)
+- [lewisakura](https://github.com/lewisakura)
 
 &nbsp;
 
